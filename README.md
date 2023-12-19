@@ -1,5 +1,5 @@
 # BVC-project
-Some points about evening sessions:
+Some points about evening sessions:<br>
 It provided a way to stay connected with spritual knowledge.
 Lectures of various alumini helped us to get their point of view about different problems.
 I liked the topics which are covered  such as art of smartwork, how to manage time efficiently, happiness simplified etc.
