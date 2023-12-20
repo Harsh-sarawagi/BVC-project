@@ -1,5 +1,6 @@
 #experience of bootcamp
-This was an amazing experience as this was a combination of technical as well as spiritual knowledge. Both technical and spiritual parts were very helpful.<\br>
+This was an amazing experience as this was a combination of technical as well as spiritual knowledge. Both technical and spiritual parts were very helpful.
+<\br>
 Firstly I would like to tell about the technical part, so it was a lot more than what I excepted before starting of this camp.
 It introduced us with pyhon which is one of the most important programming language. 
 It was also very helpful for developing the basic knowledge of machine learning. Now it is easier for us to explore more deeply about machine learning by ourself. 
